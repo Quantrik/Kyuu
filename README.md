@@ -1,5 +1,7 @@
 # Kyuu
-Kyuu Keyboard Design
+This repository contains the design for the Kyuu Keyboard. While there will be sales of the keyboard
+in the future, this repository provides the files necessary for anyone to create a copy of the board for
+personal use.
 
 ## Terms of Use
 Please refer to the LICENSE.md file in this repository for the terms of use. The purpose of sharing
